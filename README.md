@@ -1,6 +1,5 @@
-# <img src="C:\Users\Diego\Desktop\DIU\Trabajo Final\img\icons\026-case study.png" alt="026-case study" style="zoom:10%;" />UX CASE STUDY: erranT
-
-:books: Diseño de Interfaces de Usuario	:date: Curso 2019/20
+# <img src="img/icons/026-case study.png" width="5%;"/> UX CASE STUDY: erranT
+:office: Universidad de Granada :books: Diseño de Interfaces de Usuario	:date: Curso 2019/20
 
 :bust_in_silhouette:  Diego García Aurelio	:octocat: [diegogaraur](https://github.com/diegogaraur) 
 
@@ -25,7 +24,7 @@ Qué es Coworking | Definición de una tendencia que arrasa, Coworkingfy (Sep 13
 
 
 
-## <img src="C:\Users\Diego\Desktop\DIU\Trabajo Final\img\icons\014-clickstream.png" style="zoom:10%;" /> 1. Análisis etnográfico
+## <img src="img/icons/014-clickstream.png" width="5%;"/> 1. Análisis etnográfico
 
 Antes de realizar cualquier otra acción para el diseño de la nueva web, voy a observar las páginas web de otras empresas de la competencia para poder extraer información y conocer funcionalidades útiles que podríamos utilizar para nuestra solución. A continuación, las 4 webs estudiadas: 
 
@@ -47,7 +46,7 @@ Impact Hub es una empresa de coworking con distintas sedes en todo el mundo. Me 
 
 ### 1.5. Tabla comparativa
 
-| Funcionalidad\Empresa                | <img src="img\etnografia\logo-cubikate.webp" style="zoom:15%;" /> | <img src="img\etnografia\logo-topyco.png" style="zoom:50%;" /> | ![](img\etnografia\logo-anda_cowork.png) | <img src="C:\Users\Diego\Desktop\DIU\Trabajo Final\img\etnografia\logo-IHMadrid.png" style="zoom:8%;" /> |
+| Funcionalidad\Empresa                | <img src="img/etnografia/logo-cubikate.webp" width="250px"/> | <img src="img/etnografia/logo-topyco.png" width="500px" /> | <img  src="img/etnografia/logo-anda_cowork.png" width="500px" /> | <img src="img/etnografia/logo-IHMadrid.png" width="500px"/> |
 | ------------------------------------ | :----------------------------------------------------------: | :----------------------------------------------------------: | :--------------------------------------: | :----------------------------------------------------------: |
 | Precios visibles                     |                             :x:                              |                      :heavy_check_mark:                      |            :heavy_check_mark:            |                      :heavy_check_mark:                      |
 | Disponibilidad de salas de reuniones |                             :x:                              |                      :heavy_check_mark:                      |                   :x:                    |                             :x:                              |
@@ -63,17 +62,19 @@ Con esta tabla comparativa podemos comparar con facilidad las funcionalidades qu
 
 
 
-## <img src="C:\Users\Diego\Desktop\DIU\Trabajo Final\img\icons\073-user profiles.png" style="zoom:10%;" /> 2. Persona
+## <img src="img/icons/073-user profiles.png" width="5%;"/> 2. Persona
 
 Para tener en cuenta al usuario durante el proceso de diseño, he creado la siguiente persona y así poder observar desde otra perspectiva el negocio que estamos estudiando.
 
-![](img\persona.png)
+<p align="center">
+  <img src="img/persona.png">
+</p>
 
 Como podemos observar, Irene es una persona que encajaría perfectamente en el mundo del coworking. 
 
 
 
-## <img src="C:\Users\Diego\Desktop\DIU\Trabajo Final\img\icons\021-journey.png" style="zoom:10%;" /> 3. Experiencias del usuario
+## <img src="img/icons/021-journey.png" width="5%;"/> 3. Experiencias del usuario
 
 A continuación, vamos a ver algunas de las experiencias que podría tener la persona anterior en la página web actual de erranT para así extraer conocimiento e ideas a mejorar.
 
@@ -97,9 +98,9 @@ Irene está buscando lugares para poder escribir tranquila en Granada y se encue
 
 - Le gustaría saber si además, si hacen eventos y cuándo, pero no encuentra nada en la página. :disappointed: (Decepcionada)
 
-- Ve que hay un blog para escribir y ya está pensando que podría escribir allí. :happy: (Contenta)
+- Ve que hay un blog para escribir y ya está pensando que podría escribir allí. :smile: (Contenta)
 
-- Tiene algunas preguntas acerca del sitio, pero tiene que contactar con la empresa :neutral_face: ​ (Neutral)
+- Tiene algunas preguntas acerca del sitio, pero tiene que contactar con la empresa :neutral_face: (Neutral)
 - Descubre que hay información de gente que usa el cowork de erranT, pero hay muchos y le gustaría ver los que tiene gustos similares a ella. :disappointed: (Decepcionada)
 - Antes, de contratar el servicio gustaría probar un día gratis, pero parece ser que no se puede. :disappointed: (Decepcionada)
 
@@ -115,7 +116,7 @@ Como observamos, Irene pasa por distintos sentimientos a lo largo de su día. Re
 
 
 
-## <img src="C:\Users\Diego\Desktop\DIU\Trabajo Final\img\icons\058-objective.png" style="zoom:10%;" /> 4. Propuesta de valor
+## <img src="img/icons/058-objective.png" width="5%;"/> 4. Propuesta de valor
 
 Una vez realizado el estudio etnográfico y habiendo obtenido un feedback del usuario acerca de la web a rediseñar, podemos concluir nuestra propuesta de valor. El objetivo principal de erranT es dar un espacio  ideal y confortable para trabajar a personas y crear una comunidad donde puedan compartir ideas, charlar e incluso realizar actividades fuera del trabajo. Además, a partir de ahora, los usuarios podrán solicitar ir el primer día gratis sin compromiso, de está forma podrán saber si se ajusta a sus necesidades y después decidir si se subscribe con mayor facilidad.
 
@@ -136,25 +137,29 @@ Por otro lado, se aportarán nuevas funcionalidades que los usuarios apreciarán
 
 
 
-## 5. Sitemap
+## <img src="img/icons/043-hierarchy.png" width="5%;"/> 5. Sitemap
 
 La siguiente imagen muestra la estructura que tendrá la web que estamos rediseñando.
 
-![](img\sitemap.png)
+<p align="center">
+  <img src="img/sitemap.png">
+</p>
 
 
-
-## <img src="C:\Users\Diego\Desktop\DIU\Trabajo Final\img\icons\047-wireframe.png" style="zoom:10%;" /> 6. Bocetos
+## <img src="img/icons/047-wireframe.png" width="5%;"/> 6. Bocetos
 
 El diseño de la web será totalmente responsive, ya que hoy en día se accede a las webs desde cualquier dispositivo y el usuario navegue desde donde se sienta más cómodo.
 
-![](\img\bocetos.png)
+<p align="center">
+  <img src="img/bocetos.png">
+</p>
+
 
 Se muestra solo es el boceto del inicio. También indicar que solo se muestra la primera vista, faltaría más información en esta página que se podría ver navegando. 
 
 
 
-## <img src="C:\Users\Diego\Desktop\DIU\Trabajo Final\img\icons\035-design.png" style="zoom:10%;" /> 7. Guidelines
+## <img src="img/icons/035-design.png" width="5%;"/> 7. Guidelines
 
 Para las líneas de diseño seguimos las pautas de Google: [Material Design](https://material.io/). Usaremos sus recomendaciones para el diseño web y sus facilidades para realizar una aplicación responsive.
 
@@ -162,30 +167,35 @@ Para las líneas de diseño seguimos las pautas de Google: [Material Design](htt
 
 El color principal de la web será el rojo 600 de la paleta Material Design. También, usaremos su variante oscura para el uso de botones.
 
-![](img\guidelines\colores.png)
-
+<p align="center">
+  <img src="img/guidelines/colores.png">
+</p>
 
 
 ### 7.2. Tipografía
 
 En este caso apostamos por la tipografía por defecto en Material Design: [Roboto](https://fonts.google.com/specimen/Roboto). La siguiente imagen muestra los tamaños y peso para su utilización.
 
-![](img\guidelines\tipografía.png)
+<p align="center">
+  <img src="img/guidelines/tipografía.png">
+</p>
 
 ### 7.3. Iconografía
 
 Los [iconos](https://material.io/resources/icons/?style=baseline) que usará la web de erranT son los que aporta Material Design con el tema Filled.
 
-![](C:\Users\Diego\Desktop\DIU\Trabajo Final\img\guidelines\iconografia.png)
+<p align="center">
+  <img src="img/guidelines/iconografia.png">
+</p>
 
 ### 7.4. Componentes
 
 Los [componentes]() que más usaremos a lo largo de la web, serán los de la siguiente imagen, entre otros.
 
 
-
-![](C:\Users\Diego\Desktop\DIU\Trabajo Final\img\guidelines\componentes.png)
-
+<p align="center">
+  <img src="img/guidelines/componentes.png">
+</p>
 
 
 ## Conclusión final
